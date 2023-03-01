@@ -22,10 +22,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 <div align="left">
 ### :hammer_and_wrench: Languages and Tools :
 </div>
-
 
 <div align="left">
 I am a PhD Student <img src="https://media.giphy.com/media/hENzElhl495Xl0WQAv/giphy.gif" width="30"> in Department of Mathematics <img src="https://media.giphy.com/media/zPbnEgxsPJOJSD3qfr/giphy.gif" width="30"> , Computer Science <img src="https://media.giphy.com/media/D0TWLl6wTW0KrQAEcf/giphy.gif" width="30"> and Physics at University of udine, Italy.
