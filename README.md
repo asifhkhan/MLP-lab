@@ -27,8 +27,10 @@
 
 <div align="left">
 :man_technologist: About Me :
- 
+  </div>
+ <div align="left">
 I am a PhD Student <img src="https://media.giphy.com/media/hENzElhl495Xl0WQAv/giphy.gif" width="30"> in Department of Mathematics <img src="https://media.giphy.com/media/zPbnEgxsPJOJSD3qfr/giphy.gif" width="30"> , Computer Science <img src="https://media.giphy.com/media/D0TWLl6wTW0KrQAEcf/giphy.gif" width="30"> and Physics at University of udine, Italy.
+    </div>
 
 - :telescope: I am working on Low Level Vision problem includes Image Super Resolution, Image Denoising and Image Deblurring.
 
