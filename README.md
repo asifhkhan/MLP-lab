@@ -1,4 +1,3 @@
-# Image Super Resolution
-
-<img src="https://blog.paperspace.com/content/images/size/w1000/2020/08/download.jpg" width="512" height="400">
-     
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
