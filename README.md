@@ -36,5 +36,5 @@ I am a PhD Student <img src="https://media.giphy.com/media/hENzElhl495Xl0WQAv/gi
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/asif-hussain-khan-86a645220/")
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asif-hussain-khan-86a645220/)
   </div>
