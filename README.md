@@ -25,3 +25,6 @@
 <div align="left">
 👨‍💻 💻 About Me :
 </div>
+
+
+I am a PhD Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
