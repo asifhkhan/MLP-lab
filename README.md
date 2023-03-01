@@ -48,3 +48,8 @@ I am a PhD Student <img src="https://media.giphy.com/media/hENzElhl495Xl0WQAv/gi
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   
 </div>  
+ 
+
+### :fire: My Stats :
+
+ 
