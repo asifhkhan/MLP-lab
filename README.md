@@ -24,6 +24,7 @@
 </div>
 
 
+<div align="left">
 ### :woman_technologist: About Me :
 
 
