@@ -27,4 +27,5 @@
 </div>
 
 
-I am a PhD Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a PhD Student <img src="https://media.giphy.com/media/D0TWLl6wTW0KrQAEcf/giphy.gif" width="30"> in Department of Mathematics, Computer Science and Physics at University of udine, Italy.
+
