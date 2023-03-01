@@ -27,4 +27,4 @@
 </div>
 
 
-I am a PhD Student <img src="https://media.giphy.com/media/D0TWLl6wTW0KrQAEcf/giphy.gif" width="30"> in Department of Mathematics <img src="https://media.giphy.com/media/zPbnEgxsPJOJSD3qfr/giphy.gif" width="30"> , Computer Science and Physics at University of udine, Italy.
+I am a PhD Student in Department of Mathematics <img src="https://media.giphy.com/media/zPbnEgxsPJOJSD3qfr/giphy.gif" width="30"> , Computer Science <img src="https://media.giphy.com/media/D0TWLl6wTW0KrQAEcf/giphy.gif" width="30"> and Physics at University of udine, Italy.
