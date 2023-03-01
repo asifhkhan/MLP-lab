@@ -22,10 +22,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+---
 <div align="left">
- :man_technologist: About Me :
- </div>
-<div align="left">
+:man_technologist: About Me :
+ 
 I am a PhD Student <img src="https://media.giphy.com/media/hENzElhl495Xl0WQAv/giphy.gif" width="30"> in Department of Mathematics <img src="https://media.giphy.com/media/zPbnEgxsPJOJSD3qfr/giphy.gif" width="30"> , Computer Science <img src="https://media.giphy.com/media/D0TWLl6wTW0KrQAEcf/giphy.gif" width="30"> and Physics at University of udine, Italy.
 
 - :telescope: I am working on Low Level Vision problem includes Image Super Resolution, Image Denoising and Image Deblurring.
@@ -36,6 +36,7 @@ I am a PhD Student <img src="https://media.giphy.com/media/hENzElhl495Xl0WQAv/gi
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif-hussain-khan-86a645220/)
   </div>
+---  
   <div align="left">
 ### :hammer_and_wrench: Languages and Tools :
   </div>
