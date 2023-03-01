@@ -24,7 +24,7 @@
 </div>
 
 <div align="left">
-### :hammer_and_wrench: Languages and Tools :
+### :woman_technologist: About Me :
 </div>
 
 <div align="left">
