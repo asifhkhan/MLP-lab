@@ -38,3 +38,6 @@ I am a PhD Student <img src="https://media.giphy.com/media/hENzElhl495Xl0WQAv/gi
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif-hussain-khan-86a645220/)
   </div>
+  <div align="left">
+### :hammer_and_wrench: Languages and Tools :
+  </div>
